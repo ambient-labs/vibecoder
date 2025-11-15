@@ -42,7 +42,7 @@ vibe-setup [repo] [branch] [machine] [prompt]
 
 ### Arguments
 
-- `repo` (optional): Repository in format `owner/repo` (default: `ambient-labs/vibe-coding-test`)
+- `repo` (optional): Repository in format `owner/repo` (default: `ambient-labs/vibe-coder`)
 - `branch` (optional): Branch name (default: `main`)
 - `machine` (optional): Machine type (default: `basicLinux32gb`)
 - `prompt` (optional): Initial prompt to pass to Claude
