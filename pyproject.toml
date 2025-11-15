@@ -9,7 +9,7 @@ dependencies = [
 ]
 
 [project.scripts]
-vibe-setup = "vibe_coding_test.cli:main"
+vibecoder = "vibe_coding_test.cli:main"
 
 [build-system]
 requires = ["hatchling"]
